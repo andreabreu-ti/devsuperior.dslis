@@ -136,6 +136,4 @@ public class Game {
 		Game other = (Game) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
 }
