@@ -31,7 +31,7 @@ public class GameMinDTO {
 		shortDescription = projection.getShortDescription();
 	}
 
-	// Só precisa de getter no DTo
+	// Só precisa de getter no DTO
 
 	public Long getId() {
 		return id;
